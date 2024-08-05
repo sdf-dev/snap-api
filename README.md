@@ -1,3 +1,3 @@
 # snap-api
 
-A simple api in Python just for 
+A simple api in Python just for fun
